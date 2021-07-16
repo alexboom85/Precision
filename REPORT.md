@@ -17,7 +17,7 @@
 
 **Intelij IDEA**
 
-**В качестве тестовых данных использовались данные: условия задания [Задание](https://github.com/netology-code/javaqa-homeworks/tree/master/programming)**  
+**В качестве тестовых данных использовались данные: [Условия задания](https://github.com/netology-code/javaqa-homeworks/tree/master/programming)**  
 
 По условию задания нужно:
 
@@ -25,5 +25,5 @@
 1. Проверить его работоспособность (данные менять не нужно) 
 
 **Тестирование производилось в следующем окружении:**   
-*Ноутбук HP Pavilion,Windows 10, x64*    
+*Ноутбук HP Pavilion, Windows 10, x64*    
 *Openjdk version "11.0.11" 2021-04-20*  
